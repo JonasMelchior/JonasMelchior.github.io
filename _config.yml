@@ -38,15 +38,15 @@ features                                  :
 
   - title                                 : Social Media
     description                           : Full-fletched social media tailored for winter bathers
-    fontawesome_icon_name                 : people-group
+    fontawesome_icon_name                 : male
     
   - title                                 : Map Functionality
     description                           : Discover registered bathing areas on the map and conquer them!
-    fontawesome_icon_name                 : map-location-dot
+    fontawesome_icon_name                 : map
 
   - title                                 : Pointsystem
     description                           : Compete with your friends on conquest, fame or consistency points
-    fontawesome_icon_name                 : table-list
+    fontawesome_icon_name                 : list-squares
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
