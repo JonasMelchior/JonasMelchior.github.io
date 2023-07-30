@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Pointsystem
     description                           : Compete with your friends on conquest, fame or consistency points
-    fontawesome_icon_name                 : list-squares
+    fontawesome_icon_name                 : list
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
