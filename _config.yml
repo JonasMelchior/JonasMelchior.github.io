@@ -37,7 +37,7 @@ github_username                           : JonasMelchior
 features                                  :
 
   - title                                 : Social Media
-    description                           : "Full-fletched" social media tailored for winter bathers
+    description                           : Full-fletched social media tailored for winter bathers
     fontawesome_icon_name                 : people-group
     
   - title                                 : Map Functionality
