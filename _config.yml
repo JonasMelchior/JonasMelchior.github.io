@@ -44,6 +44,10 @@ features                                  :
     description                           : Discover registered bathing areas on the map and conquer them!
     fontawesome_icon_name                 : map-location-dot
 
+  - title                                 : Pointsystem
+    description                           : Compete with your friends on conquest, fame or consistency points
+    fontawesome_icon_name                 : table-list
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
