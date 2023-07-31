@@ -4,6 +4,8 @@ title: Privacy Policy
 include_in_header: false
 ---
 
+
+
 **PRIVACY NOTICE**
 
   
@@ -16,13 +18,13 @@ include_in_header: false
 
   
 
-This privacy notice for \_\_\_\_\_\_\_\_\_\_ ("**Company**," "**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
+This privacy notice for Viking Dips, describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services, such as when you:
 
 *   Download and use our mobile application (Viking Dips), or any other application of ours that links to this privacy notice
 
 *   Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at \_\_\_\_\_\_\_\_\_\_.
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at jonasjensen04@gmail.com.
 
   
 
@@ -36,7 +38,7 @@ This privacy notice for \_\_\_\_\_\_\_\_\_\_ ("**Company**," "**we**," "**us**,"
 
   
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with \_\_\_\_\_\_\_\_\_\_ and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personalinfo).
+**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Viking Dips and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personalinfo).
 
   
 
@@ -44,7 +46,7 @@ This privacy notice for \_\_\_\_\_\_\_\_\_\_ ("**Company**," "**we**," "**us**,"
 
   
 
-**Do we receive any information from third parties?** We may receive information from public databases, marketing partners, social media platforms, and other outside sources. Learn more about [information collected from other sources](#othersources).
+**Do we receive any information from third parties?** We do not receive any information from third parties.
 
   
 
@@ -56,15 +58,19 @@ This privacy notice for \_\_\_\_\_\_\_\_\_\_ ("**Company**," "**we**," "**us**,"
 
   
 
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#infosafe).
+
+  
+
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#privacyrights).
 
   
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by submitting a [data subject access request](https://app.termly.io/notify/220b4d77-e3ce-411d-9581-22dba82f8e6f), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
   
 
-Want to learn more about what \_\_\_\_\_\_\_\_\_\_ does with any information we collect? [Review the privacy notice in full](#toc).
+Want to learn more about what we do with any information we collect? [Review the privacy notice in full](#toc).
 
   
 
@@ -82,25 +88,23 @@ Want to learn more about what \_\_\_\_\_\_\_\_\_\_ does with any information we 
 
 [4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)
 
-[5\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#cookies)
+[5\. HOW LONG DO WE KEEP YOUR INFORMATION?](#inforetain)
 
-[6\. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?](#intltransfers)
+[6\. HOW DO WE KEEP YOUR INFORMATION SAFE?](#infosafe)
 
-[7\. HOW LONG DO WE KEEP YOUR INFORMATION?](#inforetain)
+[7\. DO WE COLLECT INFORMATION FROM MINORS?](#infominors)
 
-[8\. DO WE COLLECT INFORMATION FROM MINORS?](#infominors)
+[8\. WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)
 
-[9\. WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)
+[9\. CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
 
-[10\. CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
+[10\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#caresidents)
 
-[11\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#caresidents)
+[11\. DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
 
-[12\. DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
+[12\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
 
-[13\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
-
-[14\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
+[13\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
 
   
 
@@ -140,6 +144,8 @@ We collect personal information that you voluntarily provide to us when you regi
 
 *   _Mobile Device Access._ We may request access or permission to certain features from your mobile device, including your mobile device's storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 
+*   _Push Notifications._ We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
+
 This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
 
   
@@ -160,6 +166,10 @@ All personal information that you provide to us must be true, complete, and accu
 
 *   **To facilitate account creation and authentication and otherwise manage user accounts.** We may process your information so you can create and log in to your account, as well as keep your account in working order.
 
+*   **To deliver and facilitate delivery of services to the user.** We may process your information to provide you with the requested service.
+
+*   **To enable user-to-user communications.** We may process your information if you choose to use any of our offerings that allow for communication with another user.
+
 *   **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
   
@@ -179,6 +189,8 @@ _**If you are located in the EU or UK, this section applies to you.**_
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
 *   **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about [withdrawing your consent](#withdrawconsent).
+
+*   **Performance of a Contract.** We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.
 
 *   **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.  
     
@@ -233,43 +245,13 @@ We may need to share your personal information in the following situations:
 
 *   **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
-*   **Affiliates.** We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy notice. Affiliates include our parent company and any subsidiaries, joint venture partners, or other companies that we control or that are under common control with us.
-
-*   **Business Partners.** We may share your information with our business partners to offer you certain products, services, or promotions.
+*   **Other Users.** When you share personal information (for example, by posting comments, contributions, or other content to the Services) or otherwise interact with public areas of the Services, such personal information may be viewed by all users and may be publicly made available outside the Services in perpetuity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our Services, and view your profile.
 
 *   **Offer Wall.** Our application(s) may display a third-party hosted "offer wall." Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our application(s) and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our application(s). A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward.
 
   
 
-**5\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
-
-  
-
-**_In Short:_** _We may use cookies and other tracking technologies to collect and store your information._
-
-  
-
-We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
-
-  
-
-**6\. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?**
-
-  
-
-**_In Short:_** _We may transfer, store, and process your information in countries other than your own._
-
-  
-
-Our servers are located in. If you are accessing our Services from outside, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)" above), in and other countries.
-
-  
-
-If you are a resident in the European Economic Area (EEA) or United Kingdom (UK), then these countries may not necessarily have data protection laws or other similar laws as comprehensive as those in your country. However, we will take all necessary measures to protect your personal information in accordance with this privacy notice and applicable law.
-
-  
-
-**7\. HOW LONG DO WE KEEP YOUR INFORMATION?**
+**5\. HOW LONG DO WE KEEP YOUR INFORMATION?**
 
   
 
@@ -277,7 +259,7 @@ If you are a resident in the European Economic Area (EEA) or United Kingdom (UK)
 
   
 
-We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than .
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than the period of time in which users have an account with us.
 
   
 
@@ -285,7 +267,19 @@ When we have no ongoing legitimate business need to process your personal inform
 
   
 
-**8\. DO WE COLLECT INFORMATION FROM MINORS?**
+**6\. HOW DO WE KEEP YOUR INFORMATION SAFE?**
+
+  
+
+**_In Short:_** _We aim to protect your personal information through a system of organizational and technical security measures._
+
+  
+
+We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
+
+  
+
+**7\. DO WE COLLECT INFORMATION FROM MINORS?**
 
   
 
@@ -293,11 +287,11 @@ When we have no ongoing legitimate business need to process your personal inform
 
   
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at \_\_\_\_\_\_\_\_\_\_.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at jonasjensen04@gmail.com.
 
   
 
-**9\. WHAT ARE YOUR PRIVACY RIGHTS?**
+**8\. WHAT ARE YOUR PRIVACY RIGHTS?**
 
   
 
@@ -333,13 +327,17 @@ However, please note that this will not affect the lawfulness of the processing 
 
 If you would at any time like to review or change the information in your account or terminate your account, you can:
 
-*   Contact us using the contact information provided.
+*   Log in to your account settings and update your user account.
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
 
   
 
-**10\. CONTROLS FOR DO-NOT-TRACK FEATURES**
+If you have questions or comments about your privacy rights, you may email us at jonasjensen04@gmail.com.
+
+  
+
+**9\. CONTROLS FOR DO-NOT-TRACK FEATURES**
 
   
 
@@ -347,7 +345,7 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
   
 
-**11\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+**10\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
 
   
 
@@ -363,151 +361,7 @@ If you are under 18 years of age, reside in California, and have a registered ac
 
   
 
-**CCPA Privacy Notice**
-
-  
-
-The California Code of Regulations defines a "resident" as:
-
-  
-
-(1) every individual who is in the State of California for other than a temporary or transitory purpose and
-
-(2) every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose
-
-  
-
-All other individuals are defined as "non-residents."
-
-  
-
-If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.
-
-  
-
-**What categories of personal information do we collect?**
-
-  
-
-We have collected the following categories of personal information in the past twelve (12) months:
-
-  
-
-We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
-
-*   Receiving help through our customer support channels;
-
-*   Participation in customer surveys or contests; and
-
-*   Facilitation in the delivery of our Services and to respond to your inquiries.
-
-**How do we use and share your personal information?**
-
-  
-
-More information about our data collection and sharing practices can be found in this privacy notice.
-
-  
-
-You may contact us or by referring to the contact details at the bottom of this document.
-
-  
-
-If you are using an authorized agent to exercise your right to opt out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
-
-  
-
-**Will your information be shared with anyone else?**
-
-  
-
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf, following the same strict privacy protection obligations mandated by the CCPA.
-
-  
-
-We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
-
-  
-
-**Your rights with respect to your personal data**
-
-  
-
-Right to request deletion of the data — Request to delete
-
-  
-
-You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.
-
-  
-
-Right to be informed — Request to know
-
-  
-
-Depending on the circumstances, you have a right to know:
-
-*   whether we collect and use your personal information;
-
-*   the categories of personal information that we collect;
-
-*   the purposes for which the collected personal information is used;
-
-*   whether we sell or share personal information to third parties;
-
-*   the categories of personal information that we sold, shared, or disclosed for a business purpose;
-
-*   the categories of third parties to whom the personal information was sold, shared, or disclosed for a business purpose;
-
-*   the business or commercial purpose for collecting, selling, or sharing personal information; and
-
-*   the specific pieces of personal information we collected about you.
-
-In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.
-
-  
-
-Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
-
-  
-
-We will not discriminate against you if you exercise your privacy rights.
-
-  
-
-Right to Limit Use and Disclosure of Sensitive Personal Information
-
-  
-
-We do not process consumer's sensitive personal information.
-
-  
-
-Verification process
-
-  
-
-Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g., phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
-
-  
-
-We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.
-
-  
-
-Other privacy rights
-
-*   You may object to the processing of your personal information.
-
-*   You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
-
-*   You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
-
-To exercise these rights, you can contact us or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
-
-  
-
-**12\. DO WE MAKE UPDATES TO THIS NOTICE?**
+**11\. DO WE MAKE UPDATES TO THIS NOTICE?**
 
   
 
@@ -519,27 +373,19 @@ We may update this privacy notice from time to time. The updated version will be
 
   
 
-**13\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
+**12\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
 
   
 
-If you have questions or comments about this notice, you may email us at \_\_\_\_\_\_\_\_\_\_ or contact us by post at:
+If you have questions or comments about this notice, you may email us at jonasjensen04@gmail.com.
 
   
 
-\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_
+**13\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
   
 
-**14\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
-
-  
-
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/220b4d77-e3ce-411d-9581-22dba82f8e6f).
+You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, you can go to the account tab in the app, and review, update or delete your info.
 
 ul { list-style-type: square; } ul > li > ul { list-style-type: circle; } ul > li > ul > li > ul { list-style-type: square; } ol li { font-family: Arial ; }
 
